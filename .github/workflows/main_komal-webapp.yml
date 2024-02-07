@@ -63,4 +63,4 @@ jobs:
           app-name: 'Komal-WebApp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D55A21ECC74E469D9A0D72C5291DDDCD }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8C7FB94E6E7846F196D4CAB42CEE3936 }}
